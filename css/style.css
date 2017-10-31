@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-size: 14px;
+}
+
+.hw {
+  height: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  width: 100%;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+}
+
+header {
+  height: 535px;
+  padding-top: 0px;
+}
+
+.hw .text {
+  float: left;
+}
+
+.hw .input{
+    float: right;
+}
+
+.header .logo {
+  margin-left: 177px;
+  border-left-width: -28px;
+  margin-top: 69px;
+  padding-left: 43px;
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.iphone img {
+  position: absolute;
+  margin-top: -1380px;
+  margin-left: 213px;
+}
+
+.tabs{
+  padding: 0px;
+  margin: -25px auto;
+}
+
+/*.tabs input {
+  position: absolute;
+}
+*/
+
+.tabs label {
+  width: 30%;
+  display: inline-block;
+  margin: 93px 0 58px;
+  padding: 25px 45px 26px 45px;
+  text-align: center;
+  color: #5c5b5b;
+  font-size: 25px;
+}
+
+.info { 
+  margin-left: 50px;
+
+}
+.foto_screen{
+  width: 50%;
+  float: left;
+}
+.info h2 {
+  font-size: 36px;
+  margin-bottom: 21px;
+}
+.column-text {
+  line-height: 2;
+  /*margin-left: 612px;*/
+}
+.column-text h3 {
+  font-size: 30px;
+}
+
+.column-text h3 p{
+  
+  font-size: 16px;
+}
+.footer {
+  margin-top: 47px;
+  padding-top: 20px;
+  border-top: 1px solid #dedede;
+}
+.footer h4 {
+  margin-left: 512px;
+  font-size: 14px;
+}
